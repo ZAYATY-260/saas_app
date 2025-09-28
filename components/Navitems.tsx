@@ -8,7 +8,8 @@ import { usePathname } from "next/navigation"
 const navitems = [
     {label:'Home' , href:'/'},
     {label:'Companions' , href:'/companions'},
-    {label:'My Journey' , href:'/my-journey'}
+    {label:'My Journey' , href:'/my-journey'},
+    {label:'subscription' , href:'/subscription'}
 ]
 
 const Navitems = () => {
