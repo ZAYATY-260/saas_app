@@ -1,11 +1,11 @@
 import React from 'react'
 
-const CompanionSession = () => {
+const page = () => {
   return (
     <div>
-      
+      companion details
     </div>
   )
 }
 
-export default CompanionSession
+export default page
